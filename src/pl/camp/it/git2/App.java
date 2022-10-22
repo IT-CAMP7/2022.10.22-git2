@@ -11,5 +11,7 @@ public class App {
         System.out.println("abc2");
 
         System.out.println("nowy branch commit 1");
+
+        System.out.println("nowy branch commit 2");
     }
 }
